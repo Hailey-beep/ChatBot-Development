@@ -1,1 +1,3 @@
-# PRO-C119-Student-Boilerplate-Code
+# Chatbot Philosphy
+
+Class 119
