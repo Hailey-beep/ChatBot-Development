@@ -1,3 +1,3 @@
-# Chatbot Philosphy
+# Chatbot Philosophy
 
 Class 119
